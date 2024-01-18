@@ -1,0 +1,3 @@
+Lambert\ 34\10.50\ 01\San Diego
+Osborne\ 22\ 6.25\ 02\ Chicago
+Giacometti\ 5\ 100.70\ 03\ Miami
